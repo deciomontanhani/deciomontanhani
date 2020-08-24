@@ -21,7 +21,7 @@ In spite of being a mobile developer, I love to dive into other tecnologies not 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I have 3 years of experience with iOS development;
+- 👨🏽‍💻 I have 3 years of experience in iOS development;
 - 📱 I have a Bachelor's degree in Information System; 
 - ⚽️ Soccer is a topic that I never get bored about (unless my team loses. 🤣);
 - 💬 Ask me about anything, I am happy to help;
