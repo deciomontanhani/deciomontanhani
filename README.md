@@ -15,7 +15,7 @@
 
 Hi there, I'm **Décio Montanhani**, a brazilian mobile developer passionate about coding 💘. I'm currently working at [Iteris](https://www.iteris.com.br/) 🚀 in Brazil 🌴.
 
-In spite of being a mobile developer, I love to dive into other tecnologies not related to mobile area. You can follow some of them here on my github profile. 
+Despite being a mobile developer, I love to dive into other tecnologies not related to mobile area. You can follow some of them here on my github profile. 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" />
 
