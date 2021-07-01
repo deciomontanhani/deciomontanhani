@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi there, I'm **Décio Montanhani**, a brazilian mobile developer passionate about coding 💘. I'm currently working at [Iteris](https://www.iteris.com.br/) 🚀 in Brazil 🌴.
+Hi there, I'm **Décio Montanhani**, a brazilian mobile developer passionate about coding 💘. I'm currently working at [iFood](https://www.ifood.com.br) 🚀 in Brazil 🌴.
 
 Despite being a mobile developer, I love to dive into other tecnologies not related to mobile area. You can follow some of them here on my github profile. 
 
